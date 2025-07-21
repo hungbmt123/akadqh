@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Matrix Birthday Rain</title>
+  <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+  <canvas id="matrixCanvas"></canvas>
+  <script src="./style/script.js"></script>pt src="./style/script.js"></script>
+  <a href="style/script.js" download>Download script.js</a>
+</body>
+</html></html>
